@@ -1,0 +1,8 @@
+gym-minigrid
+tensorboardX
+numpy
+torch
+six
+seaborn
+matplotlib
+pandas
